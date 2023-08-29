@@ -22,7 +22,7 @@
 :arrow_forward: Created a StartPanel class that extends JPanel for the game interface.<br>
 :arrow_forward: Defined constants for screen dimensions, unit size, etc.<br>
 :arrow_forward: Initialized variables for snake movement and apple generation.<br>
-:arrow_forward: Implemented a KeyListener (MyKeyAdapter) inside the StartPanel class to control snake movement using arrow keys.<br>
+:arrow_forward: Implemented a KeyListener inside the StartPanel class to control snake movement using arrow keys.<br>
 :arrow_forward: Set up the timer for game animation using a Timer object.<br>
 
 
